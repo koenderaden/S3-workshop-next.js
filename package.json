@@ -1,0 +1,13 @@
+{
+  "name": "workshop-react-vue-2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.2.11"
+  }
+}
